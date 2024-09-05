@@ -1,81 +1,68 @@
-# :fire: 39-2nd-drunkenCoders-backend
+# drunkenCoders
 
 - 프로젝트 모티브 사이트 -> **drunkenCoders** (https://www.sooldamhwa.com/)
 
-
-</br>
-</br>
-
-## :fire: 기획의도
+## 기획의도
 
 - WEstagram에서 배운 것을 바탕으로 기본적인 CRUD를 구현하고 추가적인 기능을 더 넣어보았다.
 - 각자의 컴퓨터에서 통신하던것을 프론트분들과 소통하며 맞추어 가는 것을 중요시하였다.
 
-</br>
-</br>
+## 개발 기간
+- 2022/10/31 ~ 2022/11/11 (2주)
 
-## :fire: 핵심 기능
+## 팀원 
+### Front-end Developers
+- 김건우 , 안상준, 곽종범, 조은혜
+
+### Back-end Developers
+
+- 김수정, 서재선, 오현상
+
+## 핵심 기능
 
 - 인증, 인가 구현 (로그인과 회원가입 기능 구현)
 - 전체 상품 조회 기능 구현
 - 상품 필터링 및 정렬 기능 구현
 - 장바구니 CRUD 기능 구현
 
-</br>
-</br>
 
+## 기대 효과
 
-## :fire: 개발 기간
-
-- 2022/11/14 ~ 2022/11/25 (2주)
-
-</br>
-</br>
-
-## :fire: 참여 개발자
-
-<p align ="center">
-<img src="https://ifh.cc/g/7cl4Nx.png">
-</p>
-
-### :fire: Front-end Developers
-- 김건우(풀건우)
-- 안상준(빛상준)
-- 곽종범(갓종범)
-- 조은혜(킹은혜)
-
-### :fire: Back-end Developers
-
-- 서재선(사장님)
-- 오현상(떠돌이)
-- 김수정(재치꾼)
-
-
-</br>
-</br>
+- 술에 대한 인식 개선 
+- 나와 같은 취미를 가진 사람들을 만날 기회가 적다. -> 나와 같은 취미를 가진 사람들과 커뮤니티를 형성할 수 있다.
+- 건강한 삶과는 거리가 멀다. -> 취미활동을 통해 건강한 삶을 영위할 수 있다.
 
 ## :fire: Project Archive
 
 - [Notion](https://www.notion.so/1-Drunken-Coders-2ea81c5780ca452ea09db871d7802dce)
 - [Trello](https://trello.com/b/1kPwwMTz/drunkencodersall)
 
-</br>
-</br>
 
-## :fire: 기술 스택
+##  기술 스택
 
 - JavaScript
 - Nodejs + Express Framework
 - AWS (Amazon Web Service 간단하게 배포)
 - MySQL 
 
-</br>
-</br>
+## 적용 기술
 
-## :fire: ERD 
+
+### Back-End
+
+|                                             JavaScript                                             |                                                Nodejs                                                 |                                                 MySql                                                 |                                                  Rest                                                   |
+| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /> |
+
+### Common
+
+- common : <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white"/>
+- 협업툴 : <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=PostMan&logoColor=white"/>
+
+##  ERD 
 
 <p align = "center">
-<img src="https://ifh.cc/g/wQF1qX.jpg">
+<img src="[https://ifh.cc/g/wQF1qX.jpg](https://velog.velcdn.com/images/kimsu10/post/ec26b331-19d5-4844-9b6a-57d175745adc/image.png)">
 </p>
 
 ## :fire: 구현 기능 (Front-end & Back-end)
