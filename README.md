@@ -32,11 +32,14 @@
 - 나와 같은 취미를 가진 사람들을 만날 기회가 적다. -> 나와 같은 취미를 가진 사람들과 커뮤니티를 형성할 수 있다.
 - 건강한 삶과는 거리가 멀다. -> 취미활동을 통해 건강한 삶을 영위할 수 있다.
 
-## :fire: Project Archive
+## Project Archive
 
-- [Notion](https://www.notion.so/1-Drunken-Coders-2ea81c5780ca452ea09db871d7802dce)
+
 - [Trello](https://trello.com/b/1kPwwMTz/drunkencodersall)
-
+- [ERD](https://dbdiagram.io/d/635f86925170fb6441c8d65b)
+- [API - Products Request](https://documenter.getpostman.com/view/22962796/2s8YYJr3W2#f5c3d354-1929-4ae7-abd1-b2ca3092bc5e)
+- [API - Users Request](https://documenter.getpostman.com/view/24184557/2s8YemtDeG)
+- [API - Wishlists Request](https://documenter.getpostman.com/view/20680731/2s8YemtDiX)
 
 ##  기술 스택
 
